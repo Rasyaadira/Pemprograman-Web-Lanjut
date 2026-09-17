@@ -6,11 +6,10 @@ Repositori ini berisi kumpulan tugas praktikum mata kuliah **Pemrograman Web Lan
 
 ## 📌 Identitas Mahasiswa
 
-- **Nama:** [Nama Lengkap Anda]
-- **NIM:** [NIM Anda]
-- **Kelas:** [Kelas / Rombel]
+- **Nama:** Rasya Adira
+- **NIM:** 2507411058
+- **Kelas:** TI3C
 - **Mata Kuliah:** Pemrograman Web Lanjut
-- **Dosen Pengampu:** [Nama Dosen]
 
 ---
 
@@ -19,22 +18,22 @@ Repositori ini berisi kumpulan tugas praktikum mata kuliah **Pemrograman Web Lan
 ```text
 Pemprograman-Web-Lanjut/
 ├── MySql/
-│   ├── Connection.php         # Konfigurasi koneksi ke database MySQL
-│   ├── Insert_into_table.php  # Logika penambahan data mahasiswa
-│   ├── RemoveTable.php        # Logika penghapusan / reset data tabel
-│   ├── Show_table.php         # Menampilkan data mahasiswa dari database
-│   ├── index.php              # Halaman utama form input & tabel mahasiswa
-│   └── loginpage.php          # Halaman login
+│   ├── Connection.php
+│   ├── Insert_into_table.php
+│   ├── RemoveTable.php
+│   ├── Show_table.php
+│   ├── index.php
+│   └── loginpage.php
 │
 ├── Operator/
-│   ├── OperatorAritmatika.php # Contoh operasi aritmatika (+, -, *, /, %)
-│   ├── OperatorBitwise.php    # Contoh operasi bitwise (&, |, ^, ~, <<, >>)
-│   ├── OperatorLogika.php     # Contoh operator logika (AND, OR, NOT)
-│   ├── OperatorPenugasan.php  # Contoh assignment operator (=, +=, -=, dll)
-│   ├── OperatorPerbanding.php # Contoh operator perbandingan (==, ===, !=, >, <)
-│   ├── OperatorTernary.php    # Contoh operator ternary (? :)
-│   ├── calculator.php         # Aplikasi kalkulator sederhana
-│   └── loginpage.php          # Halaman login sederhana
+│   ├── OperatorAritmatika.php
+│   ├── OperatorBitwise.php
+│   ├── OperatorLogika.php
+│   ├── OperatorPenugasan.php
+│   ├── OperatorPerbanding.php
+│   ├── OperatorTernary.php
+│   ├── calculator.php
+│   └── loginpage.php
 │
 └── README.md
 ```
